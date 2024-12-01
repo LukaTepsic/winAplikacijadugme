@@ -1,0 +1,5 @@
+C:\Users\Tepob\source\repos\winAplikacijadugme\winAplikacijadugme\obj\Debug\winAplikacijadugme.csproj.AssemblyReference.cache
+C:\Users\Tepob\source\repos\winAplikacijadugme\winAplikacijadugme\obj\Debug\CheckboxApp.MainForm.resources
+C:\Users\Tepob\source\repos\winAplikacijadugme\winAplikacijadugme\obj\Debug\winAplikacijadugme.Properties.Resources.resources
+C:\Users\Tepob\source\repos\winAplikacijadugme\winAplikacijadugme\obj\Debug\winAplikacijadugme.csproj.GenerateResource.cache
+C:\Users\Tepob\source\repos\winAplikacijadugme\winAplikacijadugme\obj\Debug\winAplikacijadugme.csproj.CoreCompileInputs.cache
